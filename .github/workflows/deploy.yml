@@ -1,7 +1,7 @@
 name: Deploy React App to GitHub Pages
 
 on:
-https://github.com/greeshmays  push:
+  push:
     branches:
       - main
 
